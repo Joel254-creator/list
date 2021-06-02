@@ -15,4 +15,14 @@ ol{
    padding:6px;
    width:100px;
 }
-.
+.one{
+border:8px solid blue;
+width:100px;
+}
+#one{
+border:9px solid yellow;
+width:120px;
+}
+.intro{
+float:right;
+}
